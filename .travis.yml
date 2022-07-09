@@ -5,6 +5,8 @@ jdk:
 branches:
   only:
     - main
+before_script:
+  - cd {freelec-springboot2-webservice}/
 
 #Travis CI 서버의 HOME
 cache:
