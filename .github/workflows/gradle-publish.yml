@@ -7,7 +7,7 @@
 
 env:  
   S3_BUCKET_NAME: jeongkobucket
-  PROJECT_NAME: aws-web-service
+  PROJECT_NAME: freelec-springboot2-webservice
 
 
 name: jeong 
