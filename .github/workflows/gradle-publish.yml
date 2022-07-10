@@ -6,7 +6,7 @@
 # For more information see: https://github.com/actions/setup-java/blob/main/docs/advanced-usage.md#Publishing-using-gradle
 
 env:  
-  S3_BUCKET_NAME: ward-build 
+  S3_BUCKET_NAME: jeongkobucket
   PROJECT_NAME: aws-web-service
 
 
